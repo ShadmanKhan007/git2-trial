@@ -13,4 +13,3 @@ console.log("pallindrome")
 
 else {
 console.log("not a pallindrome") 
-}
